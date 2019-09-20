@@ -1,0 +1,26 @@
+.getCode{
+	position: absolute;
+	right: 10px;
+	top: 50%;
+	transform: translateY(-50%);
+	color: #006699;
+	font-size: 14px;
+}
+.login-now{
+	margin-top: 10px;
+	padding-right: 10px;
+	display: block;
+	text-align: right;
+	font-size: 14px;
+	color: #006699;
+}
+.mui-btn-primary{
+	width: 91%;
+	background: #006699;
+}
+.mui-input-row label{
+	font-size: 14px;
+}
+.mui-input-row label~input{
+	font-size: 14px;
+}
